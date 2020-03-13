@@ -1,0 +1,5 @@
+Name: anna
+Age: 16
+Phone number: 0960621486
+Email: mulykannamariia@gmail.com
+City: Rivne
